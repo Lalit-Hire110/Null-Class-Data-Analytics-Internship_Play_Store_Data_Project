@@ -1,0 +1,56 @@
+Report on Data Analyst Project
+
+Introduction
+This report summarizes the completion of a data analyst project undertaken during an internship. The project involved creating and integrating advanced data visualizations into a dashboard, demonstrating data analysis, visualization skills, and adherence to task-specific requirements.
+
+Background
+The project was part of the internship training program aimed at developing practical data analysis and visualization skills. The tasks required creating meaningful visualizations to provide actionable insights using app-related data, aligning with real-world business needs.
+
+Learning Objectives
+
+Develop skills in advanced data visualization techniques.
+
+Gain proficiency in tools such as Plotly and interactive dashboards.
+
+Enhance problem-solving abilities by addressing task-specific constraints.
+
+Activities and Tasks
+
+Task 1: Created a scatter plot to visualize the relationship between revenue and installs for paid apps, including a trendline and color-coded points based on app categories.
+
+Task 2: Designed an interactive choropleth map using Plotly to show global installs for the top five app categories, applying filters based on installs, category exclusions, and timing constraints.
+
+Task 3: Developed a bubble chart to analyze the relationship between app size, average rating, and installs, with bubble size representing install numbers.
+
+Skills and Competencies
+
+Data analysis and preprocessing to derive meaningful insights.
+
+Visualization skills using libraries like Plotly.
+
+Dashboard development and integration.
+
+Problem-solving and implementing task-specific constraints.
+
+Feedback and Evidence
+From my perspective, this project was a rewarding experience. I found the tasks to be both challenging and engaging, pushing me to apply my knowledge creatively. I received constructive feedback highlighting the accuracy of my visualizations, the innovative approach to solving constraints, and the successful integration of these elements into the dashboard. Screenshots of the visualizations, code snippets, and the functional dashboard serve as evidence of my work.
+
+Challenges and Solutions
+
+Challenge: Implementing timing constraints for the choropleth map.
+Solution: Used time-based conditions in the visualization logic to ensure it displayed only during the specified time window.
+
+Challenge: Handling large datasets for interactive visualizations.
+Solution: Optimized data processing and used efficient libraries for rendering.
+
+Outcomes and Impact
+The project:
+
+Demonstrated practical application of data analysis and visualization skills.
+
+Provided a functional dashboard capable of delivering insights to stakeholders.
+
+Strengthened problem-solving and technical capabilities through task-specific solutions.
+
+Conclusion
+This project was a significant learning experience, combining technical skills with practical applications. The successful completion of the tasks and their integration into a functional dashboard highlight the value and impact of the work completed during the internship.
